@@ -1,1 +1,2 @@
-"# LTH"   https://lth-life-time-heaith.netlify.app/ 
+Our holistic wellness platform is dedicated to nurturing the human body through tailored diet plans, exercise routines, stress management, and promoting adequate sleep. This mobile-responsive platform empowers users to prioritize their health and well-being. Additionally, users can seek guidance and support by sharing their queries via a simple form, ensuring personalized assistance from our admin team through email. Invest in your well-being with us today!
+"# LTH" website link   https://lth-life-time-heaith.netlify.app/ 
